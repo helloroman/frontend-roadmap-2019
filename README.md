@@ -69,6 +69,7 @@
 	* Usługi w chmurze
     * [Firebase – fajne dla początkujących](https://firebase.google.com/)
     * [Amazon Web Services](https://aws.amazon.com/)
+    * [ZEIT Now](https://zeit.co/)
 
 
 * [GraphQL](https://graphql.org/learn/)
